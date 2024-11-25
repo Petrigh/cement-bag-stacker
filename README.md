@@ -77,7 +77,7 @@ For questions or suggestions, please contact:
 
 - Lautaro Petrigh
 [Email](petrighlatuaro@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/lautaro-petrigh-3876b7232/))
+[LinkedIn](https://www.linkedin.com/in/lautaro-petrigh-3876b7232/)
 
 ---
 
