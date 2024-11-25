@@ -72,11 +72,11 @@ Clone the repository to your local machine:
 ### Contact
 For questions or suggestions, please contact:
 - Matias Calvo
-[Email](ingcalvomatias@gmail.com)
+[Email](mailto:ingcalvomatias@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/calvomatias/)
 
 - Lautaro Petrigh
-[Email](petrighlatuaro@gmail.com)
+[Email](mailto:petrighlatuaro@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/lautaro-petrigh-3876b7232/)
 
 ---
