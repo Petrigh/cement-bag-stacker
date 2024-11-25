@@ -65,7 +65,7 @@ The IRB 4600 is programmed to perform the following tasks:
 ### Installation
 Clone the repository to your local machine:
    ```bash
-   $ git clone https://github.com/petrigh/cement-bag-stacker.git
+   $ git clone git@github.com:Petrigh/cement-bag-stacker.git
    ```
 ---
 
